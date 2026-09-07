@@ -1,0 +1,42 @@
+{
+  "i18n": {
+    "hasMessages": true,
+    "locale": "ru-RU"
+  },
+  "state": {
+    "initData": {
+      "result": {
+        "action": {
+          "title": "Войти",
+          "uri": "ru.avito://1/authenticate"
+        },
+        "subtitle": {
+          "text": "Чтобы посмотреть их, войдите в свой профиль."
+        },
+        "title": "Объявления пользователя скрыты"
+      },
+      "status": "placeholder"
+    },
+    "toggles": {
+      "authorized_reviews": false,
+      "enable_404_in_bx_profile": true,
+      "enable_public_profile_search_ssr": true,
+      "enable_reviews_ssr_in_pro_profile": true,
+      "url_slug_for_profile_search_enabled": true
+    },
+    "experiments": {},
+    "strFeatures": {},
+    "isAuthorizedReviewsEnabled": false,
+    "slugEnabled": true,
+    "reviewsSsrEnabled": true,
+    "search": "?id=8234747360&src=item&page_from=from_item_card&iid=8234747360",
+    "isAdultStatusApproved": false
+  },
+  "toggles": {
+    "authorized_reviews": false,
+    "enable_404_in_bx_profile": true,
+    "enable_public_profile_search_ssr": true,
+    "enable_reviews_ssr_in_pro_profile": true,
+    "url_slug_for_profile_search_enabled": true
+  }
+}
